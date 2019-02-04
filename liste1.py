@@ -7,7 +7,5 @@ for i in liste3:
 print(liste2)
 liste3=[1,2,3,5,6,4,9]
 print(liste3)
-
-
-   
-        
+""" ?
+huy "
