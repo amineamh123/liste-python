@@ -17,7 +17,8 @@ if liste3==[]:
     print(" pas d'intersction")
 else :
     print(list(liste3))
-""" amine """
-    
-
-
+""" amine
+ait 
+moulay 
+hachem
+""" 
